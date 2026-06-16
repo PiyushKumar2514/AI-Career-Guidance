@@ -128,6 +128,6 @@ http://localhost:8501
 
 **Piyush Kumar**
 
-B.Tech Computer Science Engineering
+B.Tech Information Technology
 
 AI Career Guidance and Resume Analysis System using Generative AI.
